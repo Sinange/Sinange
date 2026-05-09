@@ -2,7 +2,10 @@
 - 👀 I’m interested in  programming...
 - 💞️ I’m looking to collaborate on  javascript, java, python ,c,c# c++,php,sql & many  more other languages android  development front and back end programming...
 - 📫 How to reach me through  the email 📧 briansinange@gmail.com...
--My webpage  [https://briansinange.co.ke] 
+- Go to My webpage  https://briansinange.co.ke
+and find amazing collections  of mine with source code .
+
+
 <!---
 Sinange/Sinange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
